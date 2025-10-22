@@ -1,7 +1,7 @@
 # Seminarski-rad-Airline-Customer-Satisfaction-
 U ovom seminarskom radu analiziraćemo skup podataka “Airline Customer Satisfaction” (stvorio ju je Ramin Huseyn), i napraviti model za predikciju promenljive satisfaction (zadovoljstvo) - analiziraćemo koliko određene informacije prikupljene iz skupa utiču na celokupno uživanje putnika tokom vožnje.
 
-## Fajlovi
+## Materijal
 
 - **Airline_Customer_Satisfaction.url**: Link do strane gde smo našli ovaj skup podataka.  
 - **Airline_Customer_Satisfaction.csv**: Skup podataka.  
