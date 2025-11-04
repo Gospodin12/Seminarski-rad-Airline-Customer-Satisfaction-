@@ -64,17 +64,19 @@ Imamo sledeće kolone:
 
 ## Summary
 Top 10 najvažnijih promenljivih:
-                        Feature  Importance
-              Flight_Experience    0.458098
-Customer Type_disloyal Customer    0.265729
-         Ground_Service_Quality    0.104097
- Type of Travel_Personal Travel    0.074807
-                          Class    0.053692
-          Flight_Distance_Group    0.023171
-                      Age_Group    0.006467
-                            Age    0.005418
-                Flight Distance    0.004155
-   Total_Delay_in_minutes_group    0.002200
+
+Feature/Importance
+- Flight_Experience : 0.458098
+- Customer Type_disloyal Customer : 0.265729
+- Ground_Service_Quality : 0.104097
+- Type of Travel_Personal Travel : 0.074807
+- Class : 0.053692
+- Flight_Distance_Group : 0.023171
+- Age_Group : 0.006467
+- Age : 0.005418
+- Flight Distance : 0.004155
+- Total_Delay_in_minutes_group : 0.002200
+
 
 Analiza je pokazala da kvalitet usluge leta, usluge pre leta (ground service) i lojalnost korisnika značajno utiču na zadovoljstvo kupca. 
 
