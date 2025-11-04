@@ -54,4 +54,9 @@ Imamo sledeće kolone:
 8.	Poređenje modela i finalna evaluacija		
 9.	Zaključak 
 
+## Iskorišćeni modeli:
+- **Logistička Regresija**
+- **Decision Tree**
+- **Random Forest**
+- **XGBoost**
 
